@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GerGh0stface
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning JavaScript!
+- 👀 I’m interested in Gaming, Motorcycles and Football!
+- 🌱 I’m currently learning JavaScript and Kotlin!
 - 📫 How to reach me: Discord (ger_gh0stface)
-- ⚡ Fun fact: To trunk to code, because Schalke is my Live😂
+- ⚡ Fun fact: Before I learned Lava, I had an accident with my motorcycle😂
 
 <!---
 GerGh0stface/GerGh0stface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
