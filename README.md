@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GerGh0stface
 - 👀 I’m interested in Gaming, Motorcycles and Football!
-- 🌱 I’m currently learning JavaScript and Kotlin!
-- 📫 How to reach me: Discord (ger_gh0stface) or on the linked Server!
+- 📫 How to reach me: At the linked Email or on the linked Discord Server!
 - ⚡ Fun fact: Before I learned Java, I had an accident with my motorcycle😂
 
 <!---
