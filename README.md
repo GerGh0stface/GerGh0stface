@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, Motorcycles and Football!
 - 📫 How to reach me: At the linked Email or on the linked Discord Server!
 - ⚡ Fun fact: Before I learned Java, I had an accident with my motorcycle😂
-- 👀 You want to see pictures from my plugins? Look here: https://modrinth.com/organization/ghostyplugins
+- 👀 You want to see pictures from my plugins? Look here: https://builtbybit.com/creators/gh0stface.596446/
 - ❗ (It can take some times because on Modrinth the gotta be set to public from their modeartors) 
 
 <!---
